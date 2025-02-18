@@ -1,1 +1,1 @@
-My name is Urvashi, and I am a doctorate student at the University of Memphis, currently working as a computational researcher. I specialize in computational biology and computational chemistry, applying advanced computational techniques to solve complex biological problems.. :)
+My name is Urvashi, and I am a doctorate student at the University of Memphis, currently working as a computational researcher. I am applying advanced computational techniques to solve complex biological problems.. :)
